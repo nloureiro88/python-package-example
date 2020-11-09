@@ -53,7 +53,11 @@ pd.set_option('display.width', 200)
 def try_me():
     """ Open my social network profiles
     """
-    print("Hello world, this is me...")
+    print("****************************************"))
+    print("Hello world, welcome to my package...")
+    time.sleep(2)
+    print("****************************************"))
+    print("The most important thing is...")
     time.sleep(2)
     print("3")
     time.sleep(2)
@@ -65,8 +69,10 @@ def try_me():
     webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
     webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
     webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
+    print("****************************************"))
     print("Ah ah ah ah...")
     time.sleep(2)
+    print("****************************************"))
     print("Staying alive!")
 
 
