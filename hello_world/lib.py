@@ -60,12 +60,14 @@ def try_me():
     print("2")
     time.sleep(2)
     print("1")
-    webbrowser.open('https://github.com/nloureiro88', new=2)
-    webbrowser.open('https://www.linkedin.com/in/nuno-loureiro-95815a5a/', new=2)
-    webbrowser.open('https://www.instagram.com/nunoloureiro88/', new=2)
-    print("Nunos everywhere!")
+    webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
+    webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
+    webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
+    webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
+    webbrowser.open('https://www.youtube.com/watch?v=fNFzfwLM72c', new=2)
+    print("Ah ah ah ah...")
     time.sleep(2)
-    print("Credits to Olivier Paulo...")
+    print("Staying alive!")
 
 
 if __name__ == '__main__':
