@@ -1,0 +1,3 @@
+graft hello_world
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  hello_world/jupy *
