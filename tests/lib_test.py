@@ -5,7 +5,7 @@ import os
 import hello_world
 import pandas as pd
 # Import from our lib
-from hello_world.lib import clean_data
+# from hello_world.lib import clean_data
 import pytest
 
 
